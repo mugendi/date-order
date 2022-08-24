@@ -1,6 +1,6 @@
 {
   "name": "date-order",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the order of date components given a date pattern such as \"YYYY-MM-DD\"",
   "main": "index.js",
   "scripts": {
