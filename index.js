@@ -51,3 +51,6 @@ function DateOrder(format) {
 
 	return order;
 }
+
+
+module.exports = DateOrder
