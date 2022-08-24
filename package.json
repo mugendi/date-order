@@ -1,0 +1,26 @@
+{
+  "name": "date-order",
+  "version": "1.0.0",
+  "description": "Get the order of date components given a date pattern such as \"YYYY-MM-DD\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "order"
+  ],
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/date-order.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mugendi/date-order/issues"
+  },
+  "homepage": "https://github.com/mugendi/date-order#readme",
+  "dependencies": {
+    "dayjs": "^1.11.5"
+  }
+}
